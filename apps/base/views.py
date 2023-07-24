@@ -1,6 +1,7 @@
 from django.http import HttpResponse
 from datetime import datetime
 
+
 def home_page(request):
     time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
