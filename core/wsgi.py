@@ -1,5 +1,5 @@
 """
-WSGI config for shared__django__example_2023_06_23 project.
+WSGI config for core project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 

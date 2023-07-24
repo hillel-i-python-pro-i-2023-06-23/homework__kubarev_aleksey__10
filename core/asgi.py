@@ -1,5 +1,5 @@
 """
-ASGI config for shared__django__example_2023_06_23 project.
+ASGI config for core project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 

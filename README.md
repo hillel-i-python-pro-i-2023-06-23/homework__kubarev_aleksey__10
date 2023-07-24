@@ -1,7 +1,8 @@
-# Flask application
+# Homework №10
+Django. Простое view.
 
 ---
-![Main workflow](https://github.com/hillel-i-python-pro-i-2023-06-23/shared__django__example_2023_06_23/actions/workflows/main-workflow.yml/badge.svg)
+![Main workflow](https://github.com/hillel-i-python-pro-i-2023-06-23/homework__kubarev_aleksey__10/actions/workflows/main-workflow.yml/badge.svg)
 
 ## 🏠 Homework
 
